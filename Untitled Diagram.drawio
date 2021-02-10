@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T06:54:23.012Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="4BhQPQ8RCvjc3my0gn64" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T07:10:21.484Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ToM7qQtGWQycfGRUMqVB" version="14.3.0" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,6 +52,14 @@
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z_T5WOkKw4FG-YKkFipD-4" target="Z_T5WOkKw4FG-YKkFipD-60">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_T5WOkKw4FG-YKkFipD-113" value="policy執行strategy" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;edgeStyle=orthogonalEdgeStyle;dashed=1;" edge="1" parent="1" source="Z_T5WOkKw4FG-YKkFipD-4" target="Z_T5WOkKw4FG-YKkFipD-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="687" />
+              <mxPoint x="500" y="452" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-4" value="Police&lt;br&gt;Procedure" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="554" y="651.66" width="102.5" height="70" as="geometry" />
@@ -265,6 +273,12 @@
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-104" value="根因分析" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1330" y="561.66" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_T5WOkKw4FG-YKkFipD-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Z_T5WOkKw4FG-YKkFipD-114" target="Z_T5WOkKw4FG-YKkFipD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_T5WOkKw4FG-YKkFipD-114" value="guideline" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="770" width="90" height="40.84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
