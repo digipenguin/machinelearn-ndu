@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T13:33:59.159Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="hDSnb_uNwo6yt0jk_5l1" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T13:35:04.272Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="bbBgkjlNt46cuZhIwDfT" version="14.3.0" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Z_T5WOkKw4FG-YKkFipD-35" target="Z_T5WOkKw4FG-YKkFipD-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z_T5WOkKw4FG-YKkFipD-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Z_T5WOkKw4FG-YKkFipD-35" target="Z_T5WOkKw4FG-YKkFipD-136">
+        <mxCell id="Z_T5WOkKw4FG-YKkFipD-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=-0.05;exitY=0.539;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z_T5WOkKw4FG-YKkFipD-121" target="Z_T5WOkKw4FG-YKkFipD-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-35" value="處理風險" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -288,7 +288,7 @@
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-116" value="&lt;span style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Senior&lt;br&gt;Mgnt&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="373" y="257" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z_T5WOkKw4FG-YKkFipD-121" value="降低&lt;br&gt;避免&lt;br&gt;轉移&lt;br&gt;接受&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Z_T5WOkKw4FG-YKkFipD-121" value="降低&lt;br&gt;避免&lt;br&gt;轉移&lt;br&gt;接受&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffffff;strokeColor=#000000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1105" y="371.66" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="Z_T5WOkKw4FG-YKkFipD-136" target="Z_T5WOkKw4FG-YKkFipD-4">
