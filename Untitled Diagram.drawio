@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T03:44:45.987Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="BAIh1zJkEQ4E9rO74m6i" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-14T15:23:51.379Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="pdQEvwzZLweDcog5FdBI" version="14.3.1" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -344,7 +344,7 @@
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-144" value="&lt;b&gt;資產分級分類&amp;nbsp;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="896.25" y="211" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7DjKlJsCixt-iZ4Y43LJ-1" value="Management&lt;br&gt;Commitment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7DjKlJsCixt-iZ4Y43LJ-1" value="&lt;b&gt;Management&lt;br&gt;Commitment&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="358" y="100" width="100" height="74" as="geometry" />
         </mxCell>
         <mxCell id="7DjKlJsCixt-iZ4Y43LJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7DjKlJsCixt-iZ4Y43LJ-5" target="7DjKlJsCixt-iZ4Y43LJ-1">
