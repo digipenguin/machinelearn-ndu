@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T08:51:52.714Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Juok_GDGUqLDI334tY5f" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-15T13:31:13.651Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="xErAFpkxgxeAXI3qsIrX" version="14.3.1" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
@@ -403,8 +403,8 @@
         <mxCell id="RKfxSkE61p598FqZE3x6-9" value="&lt;b style=&quot;font-size: 14px&quot;&gt;Steering&lt;br&gt;Committee&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="110" y="526" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RKfxSkE61p598FqZE3x6-10" value="priorities&lt;br&gt;tradeoffs&lt;br&gt;communication&amp;nbsp;&lt;br&gt;integration&lt;br&gt;business goals&lt;br&gt;emerging risks" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="618.66" width="100" height="94" as="geometry" />
+        <mxCell id="RKfxSkE61p598FqZE3x6-10" value="priorities&lt;br&gt;tradeoffs&lt;br&gt;communication&amp;nbsp;&lt;br&gt;integration&lt;br&gt;business goals&lt;br&gt;emerging risks&lt;br&gt;review strategy" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="618.66" width="100" height="101.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
