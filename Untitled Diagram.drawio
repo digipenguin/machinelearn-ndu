@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-02-15T04:22:37.863Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="XYUlOwUgK5oGuqm9Yvh_" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-15T04:25:17.962Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="JfyEJrJnOVgp6O853dKs" version="14.3.1" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RKfxSkE61p598FqZE3x6-5" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;strokeColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="133.67" width="340" height="336.33" as="geometry" />
+        </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-60" value="&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;事故管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0000FF;align=right;" parent="1" vertex="1">
           <mxGeometry x="720.25" y="722.16" width="620" height="65" as="geometry" />
         </mxCell>
@@ -23,8 +26,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="285" y="188" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1125" y="118" />
-              <mxPoint x="605" y="118" />
+              <mxPoint x="1125" y="110" />
+              <mxPoint x="605" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -157,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-35" value="處理風險&lt;br&gt;(降低/避免/轉移/接受)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="396" width="130" height="30" as="geometry" />
+          <mxGeometry x="1060" y="396" width="130" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-40" target="Z_T5WOkKw4FG-YKkFipD-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -167,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-40" value="溝通與聽取建議" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="238" width="20" height="110" as="geometry" />
+          <mxGeometry x="1000" y="236" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-42" target="Z_T5WOkKw4FG-YKkFipD-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -372,6 +375,9 @@
         </mxCell>
         <mxCell id="7DjKlJsCixt-iZ4Y43LJ-11" value="Background&lt;br&gt;check" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="236.5" y="100" width="79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RKfxSkE61p598FqZE3x6-6" value="&lt;font color=&quot;#0000ff&quot;&gt;風險管理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="446" width="60.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
