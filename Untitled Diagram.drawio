@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T07:38:03.878Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="t1lkEhAysc2NkA-YhZFK" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T12:56:46.051Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="k_PB7s9sQhEaIOlRg_np" version="14.3.2" type="github">
   <diagram name="CISM" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="1422" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-60" value="&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#0000ff&quot;&gt;事故管理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#0000FF;align=right;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="720.25" y="722.16" width="609.75" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="Z_T5WOkKw4FG-YKkFipD-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000FF;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-38" target="Z_T5WOkKw4FG-YKkFipD-3" edge="1">
+        <mxCell id="Z_T5WOkKw4FG-YKkFipD-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000FF;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-38" target="Z_T5WOkKw4FG-YKkFipD-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1040" y="440" />
