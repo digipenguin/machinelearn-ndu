@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T01:41:24.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="dwinWuyFmF9jOGS_cFgP" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-17T01:42:39.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="xLkPWgyOeasfpB6PvzU_" version="14.3.2" type="github">
   <diagram name="CISM" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1303" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
@@ -374,8 +374,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_T5WOkKw4FG-YKkFipD-144" value="&lt;b&gt;資產分級分類&amp;nbsp;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="896.25" y="211" width="80" height="40" as="geometry" />
+        <mxCell id="Z_T5WOkKw4FG-YKkFipD-144" value="&lt;b&gt;資產&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="911" y="211" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7DjKlJsCixt-iZ4Y43LJ-1" value="&lt;b&gt;Management&lt;br&gt;Commitment&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="358" y="100" width="100" height="74" as="geometry" />
@@ -447,8 +447,8 @@
         <mxCell id="LcdW9NNW-dmjEEYMS5UG-1" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Audit&lt;br&gt;(FIN)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="298" y="447" width="60" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="ZfnocIq7j7UAg82WcDB6-1" value="&lt;b&gt;點資產&lt;br&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="510" y="499" width="50" height="37" as="geometry" />
+        <mxCell id="ZfnocIq7j7UAg82WcDB6-1" value="&lt;b&gt;資產分級類&lt;br&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="500" y="499" width="80" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ZfnocIq7j7UAg82WcDB6-5" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;span&gt;BU Head&lt;/span&gt;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;/blockquote&gt;&lt;span&gt;COO&lt;/span&gt;&lt;br&gt;Serior mgnt" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=12;strokeColor=#d6b656;fillColor=#FFF4C3;" vertex="1" parent="1">
           <mxGeometry x="6" y="529.25" width="70" height="53.5" as="geometry" />
