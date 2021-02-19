@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T09:01:42.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="-HHNCdUUvpC8Xq2QRZut" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T09:03:23.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OCtC2IRG8ZFNdZkUESrR" version="14.4.2" type="github">
   <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
     <mxGraphModel dx="1102" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -51,6 +51,21 @@
         </mxCell>
         <mxCell id="yAERJWaVl_2Lz2_hRMwl-15" value="變更控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-20" value="是否相關" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="yAERJWaVl_2Lz2_hRMwl-18" target="yAERJWaVl_2Lz2_hRMwl-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-22" value="是否一致" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="yAERJWaVl_2Lz2_hRMwl-18" target="yAERJWaVl_2Lz2_hRMwl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-18" value="BIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-19" value="RM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="458" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-21" value="RTO/RPO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="380" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
