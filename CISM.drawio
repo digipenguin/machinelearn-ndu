@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T13:32:49.080Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="5YFZFNcECS4VqVwYi9_Q" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T13:34:01.052Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="buqbKoriRtbelYYuLM-N" version="14.4.2" type="github">
   <diagram name="CISM" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
@@ -110,11 +110,10 @@
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-72" value="co-work" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-20" target="Z_T5WOkKw4FG-YKkFipD-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LcdW9NNW-dmjEEYMS5UG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-20" target="LcdW9NNW-dmjEEYMS5UG-1" edge="1">
+        <mxCell id="LcdW9NNW-dmjEEYMS5UG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-20" target="LcdW9NNW-dmjEEYMS5UG-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="288" y="302" />
-              <mxPoint x="328" y="302" />
+              <mxPoint x="328" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -331,7 +330,7 @@
             <Array as="points">
               <mxPoint x="1387" y="510" />
             </Array>
-            <mxPoint x="967" y="510" as="targetPoint" />
+            <mxPoint x="970" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I_x3B0UFov074bQ4PSzn-24" value="顆粒度要多細" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Z_T5WOkKw4FG-YKkFipD-146" vertex="1" connectable="0">
@@ -473,10 +472,10 @@
         <mxCell id="RKfxSkE61p598FqZE3x6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="RKfxSkE61p598FqZE3x6-9" target="RKfxSkE61p598FqZE3x6-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RKfxSkE61p598FqZE3x6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="RKfxSkE61p598FqZE3x6-9" target="Z_T5WOkKw4FG-YKkFipD-20" edge="1">
+        <mxCell id="RKfxSkE61p598FqZE3x6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="RKfxSkE61p598FqZE3x6-9" target="Z_T5WOkKw4FG-YKkFipD-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="300" />
+              <mxPoint x="150" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
