@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T09:03:23.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OCtC2IRG8ZFNdZkUESrR" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T09:07:06.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="04Kp8-PkRKSSAmiSIxk0" version="14.4.2" type="github">
   <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
     <mxGraphModel dx="1102" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -43,8 +43,16 @@
         <mxCell id="yAERJWaVl_2Lz2_hRMwl-10" value="人員管理&lt;br&gt;訓練/教材&lt;br&gt;績效評估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="250" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yAERJWaVl_2Lz2_hRMwl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="yAERJWaVl_2Lz2_hRMwl-13" target="yAERJWaVl_2Lz2_hRMwl-10">
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="yAERJWaVl_2Lz2_hRMwl-13" target="yAERJWaVl_2Lz2_hRMwl-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yAERJWaVl_2Lz2_hRMwl-13" target="yAERJWaVl_2Lz2_hRMwl-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="309" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="275" y="324" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yAERJWaVl_2Lz2_hRMwl-13" value="部門執掌&lt;br&gt;工作說明書" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="255" width="90" height="40" as="geometry" />
@@ -59,13 +67,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yAERJWaVl_2Lz2_hRMwl-18" value="BIA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="380" width="40" height="30" as="geometry" />
+          <mxGeometry x="190" y="427" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-25" value="最高風險所衍伸的控制為何?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="yAERJWaVl_2Lz2_hRMwl-19" target="yAERJWaVl_2Lz2_hRMwl-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yAERJWaVl_2Lz2_hRMwl-19" value="RM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="458" width="40" height="30" as="geometry" />
+          <mxGeometry x="190" y="505" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yAERJWaVl_2Lz2_hRMwl-21" value="RTO/RPO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="380" width="85" height="30" as="geometry" />
+          <mxGeometry x="365" y="427" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="yAERJWaVl_2Lz2_hRMwl-23" target="yAERJWaVl_2Lz2_hRMwl-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="578" />
+              <mxPoint x="80" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-23" value="Key Control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="577" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="yAERJWaVl_2Lz2_hRMwl-26" target="yAERJWaVl_2Lz2_hRMwl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-26" value="備份SOP&lt;br&gt;備份媒體清查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="368" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="1" source="yAERJWaVl_2Lz2_hRMwl-27" target="yAERJWaVl_2Lz2_hRMwl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yAERJWaVl_2Lz2_hRMwl-27" value="備份工作如何進行" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="309" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
