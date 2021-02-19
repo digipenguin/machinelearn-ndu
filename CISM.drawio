@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T08:00:36.321Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="4cWEz9Br6ce758_QUWhj" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T08:02:42.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="ZnClPbNcyV6ETzv3IjXV" version="14.4.2" type="github">
   <diagram name="CISM" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1102" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
@@ -555,7 +555,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I_x3B0UFov074bQ4PSzn-17" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;傳遞價值(緊密)&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="I_x3B0UFov074bQ4PSzn-16" vertex="1" connectable="0">
+        <mxCell id="I_x3B0UFov074bQ4PSzn-17" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;價值展現(緊密)&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="I_x3B0UFov074bQ4PSzn-16" vertex="1" connectable="0">
           <mxGeometry x="-0.1822" y="-3" relative="1" as="geometry">
             <mxPoint x="22.840000000000003" y="0.5" as="offset" />
           </mxGeometry>
@@ -629,7 +629,7 @@
         <mxCell id="t0RdN4NFsOp_hTCud_wr-3" value="風險管理" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="288" y="799.16" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="t0RdN4NFsOp_hTCud_wr-4" value="價值呈現" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;rounded=0;" vertex="1" parent="1">
+        <mxCell id="t0RdN4NFsOp_hTCud_wr-4" value="價值展現" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="288" y="851.66" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t0RdN4NFsOp_hTCud_wr-5" value="資源管理" style="shape=hexagon;html=1;whiteSpace=wrap;perimeter=hexagonPerimeter;rounded=0;" vertex="1" parent="1">
