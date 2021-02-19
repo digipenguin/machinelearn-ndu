@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T13:47:41.579Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="scGRGILFuwmtB-Q2v_P_" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T13:48:23.638Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="KCsABeNQ74VJQVP_aumt" version="14.4.2" type="github">
   <diagram name="CISM" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
@@ -558,12 +558,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I_x3B0UFov074bQ4PSzn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#FF8000;" parent="1" source="FjglQKyL9xuaOm_JLrOF-5" target="FjglQKyL9xuaOm_JLrOF-1" edge="1">
+        <mxCell id="I_x3B0UFov074bQ4PSzn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;dashed=1;strokeColor=#FF8000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FjglQKyL9xuaOm_JLrOF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="573" y="490" />
-              <mxPoint x="468" y="490" />
+              <mxPoint x="573" y="480" />
+              <mxPoint x="468" y="480" />
             </Array>
+            <mxPoint x="573" y="450" as="sourcePoint" />
+            <mxPoint x="468" y="637.3199999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I_x3B0UFov074bQ4PSzn-17" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;價值展現(緊密)&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="I_x3B0UFov074bQ4PSzn-16" vertex="1" connectable="0">
