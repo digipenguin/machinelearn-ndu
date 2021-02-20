@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T14:14:58.894Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="4GjpIG8D8DTb51TKEhKB" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-20T02:48:12.578Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="olzN7T7nARLGjbP6kQZH" version="14.4.2" type="github">
   <diagram name="CISM" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1422" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#ffffff" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-11" target="Z_T5WOkKw4FG-YKkFipD-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z_T5WOkKw4FG-YKkFipD-11" value="Training&amp;nbsp;&lt;br&gt;Awareness" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Z_T5WOkKw4FG-YKkFipD-11" value="&lt;b&gt;Training&amp;nbsp;&lt;br&gt;Awareness&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13" y="243.65999999999997" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-9" value="Ethics" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -274,7 +274,7 @@
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-77" value="&lt;span&gt;Prioritization&lt;/span&gt;&lt;br&gt;&lt;span&gt;Downtime estimation&lt;br&gt;RTO/RPO/AIW/MTD&lt;br&gt;Resource requirement&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;dashed=1;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="679.5" y="575.66" width="131.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lTVWN6JMBrnN6HqiNqL8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_T5WOkKw4FG-YKkFipD-80" target="xGzVCziltJYHskcthxfu-1">
+        <mxCell id="lTVWN6JMBrnN6HqiNqL8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-80" target="xGzVCziltJYHskcthxfu-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1177" y="730" />
