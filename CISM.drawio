@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-21T07:59:15.365Z" agent="5.0 (iPhone; CPU iPhone OS 14_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safari/604.1" etag="jz9bYaix08SwXw9Xt85J" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-21T11:38:54.956Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="4Obo487wCbDL-jUgkp0-" version="14.4.2" type="github">
   <diagram name="CISM" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="758" dy="1218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-24" value="relationship mgnt" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;align=right;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-20" target="1ea317790d2ca983-3" edge="1">
-          <mxGeometry x="-0.3777" y="9" relative="1" as="geometry">
+          <mxGeometry x="-0.3167" y="9" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="573" y="280" />
             </Array>
@@ -179,7 +179,7 @@
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-27" target="Z_T5WOkKw4FG-YKkFipD-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z_T5WOkKw4FG-YKkFipD-27" value="識別風險情境(最重要)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="Z_T5WOkKw4FG-YKkFipD-27" value="識別風險情境(最重要)&lt;br&gt;Due diligence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1088" y="216" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-29" target="Z_T5WOkKw4FG-YKkFipD-30" edge="1">
@@ -205,7 +205,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_T5WOkKw4FG-YKkFipD-35" value="處理風險&lt;br&gt;(降低/避免/轉移/接受)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="Z_T5WOkKw4FG-YKkFipD-35" value="處理風險&lt;br&gt;(降低/避免/轉移/接受)&lt;br&gt;Due care" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1088" y="396" width="130" height="44" as="geometry" />
         </mxCell>
         <mxCell id="Z_T5WOkKw4FG-YKkFipD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Z_T5WOkKw4FG-YKkFipD-40" target="Z_T5WOkKw4FG-YKkFipD-25" edge="1">
